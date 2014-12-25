@@ -38,5 +38,9 @@ rerun.txt
 pickle-email-*.html
 .DS_Store
 
-# Ignore directories specific to crowdburst
-loan_docs/
+# Ignore other unneeded files
+*.DS_store
+_site/
+_cache/
+_plugins/
+images/
